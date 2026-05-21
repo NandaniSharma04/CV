@@ -104,8 +104,8 @@ For GitHub Pages:
 
 - Email: 04sharmanandni@gmail.com
 - GitHub: [NandaniSharma04](https://github.com/NandaniSharma04)
-- LinkedIn: Add your profile link
-- LeetCode: Add your profile link
+- LinkedIn: https://www.linkedin.com/in/nandni-sharma-265985264/?skipRedirect=true
+- LeetCode: https://leetcode.com/u/Nandani_04/
 
 ## Author
 
